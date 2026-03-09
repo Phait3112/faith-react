@@ -1,0 +1,11 @@
+1. Go to command prompt
+2. Type in cd ________
+* blank is where you type in where you want to save your react folder e.g desktop, document
+3. Type in npm create vite@latest ________
+* blak is where you input what you want to name your react
+4. When it gets to package name, just cluck tab and enter
+5. Select no for roll down vite and yes for instal with npm
+6. When everythimg comes up, do ctrl+C then terminate the job
+7. Type in cd ________
+* blank is where the name of your react folder is typed into
+8. Type in code .
